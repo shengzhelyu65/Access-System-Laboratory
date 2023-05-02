@@ -3,7 +3,8 @@
 cmake-build-*/
 
 # ESP-IDF default build directory name
-build
+build/
+.vscode/
 
 # Components Unit Test Apps files
 components/**/build
